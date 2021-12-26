@@ -36,6 +36,7 @@ Four key results were identified as part of the analysis.
 |1761|	2%|Assistant Engineer|
 |2|	0%|Manager|
 
-
-
 # Summary
+As the "silver tsunami" begins to take effect, the company will need to fill 90,398 roles. While the company has a plan for a mentorship program, it does not have enough mentorship-eligible employees to support the number of roles that will need to be filled. For example, there are 29,414 Senior Engineers yet only 169 Senior Engineers eligible for the mentorship program. The company will either need to reassess the criteria for the mentorship program, identify an additional strategy, or begin backfilling from Senior outside-hires vs internally. 
+
+
